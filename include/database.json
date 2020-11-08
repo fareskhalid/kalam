@@ -1,0 +1,29 @@
+{
+    "users":{
+        "fares": {
+            "id" : 1,
+            "username" : "fares",
+            "password" : "123456",
+            "fullName" : "Fares Khalid",
+            "friends": ["ahmed","ali","shehab"]
+        },
+        "ahmed": {
+            "id" : 2,
+            "username" : "ahmed",
+            "password" : "123456",
+            "fullName" : "Ahmed Ahmed"
+        },
+        "ali": {
+            "id" : 3,
+            "username" : "ali",
+            "password" : "123456",
+            "fullName" : "Ali Abdelraheem"
+        },
+        "shehab": {
+            "id" : 4,
+            "username" : "shehab",
+            "password" : "123456",
+            "fullName" : "Shehab Abdelraheem"
+        }
+    }
+}
